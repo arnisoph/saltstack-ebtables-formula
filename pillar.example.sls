@@ -1,0 +1,3 @@
+ebtables:
+  lookup:
+    ensure: absent
