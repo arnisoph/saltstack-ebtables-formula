@@ -2,4 +2,7 @@
 Debian:
   pkgs:
     - ebtables
+RedHat:
+  pkgs:
+    - ebtables
 {% endload %}
