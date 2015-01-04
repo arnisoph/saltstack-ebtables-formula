@@ -2,6 +2,9 @@
 ebtables-formula
 ================
 
+.. image:: https://api.flattr.com/button/flattr-badge-large.png
+    :target: https://flattr.com/submit/auto?user_id=bechtoldt&url=https%3A%2F%2Fgithub.com%2Fbechtoldt%2Fsaltstack-ebtables-formula
+
 Salt Stack Formula to set up and configure ebtables, a filtering tool for a Linux-based bridging firewall
 
 NOTICE BEFORE YOU USE
@@ -58,7 +61,8 @@ Salt Compatibility
 
 Tested with:
 
-* 2014.1.4
+* 2014.1
+* 2014.7
 
 OS Compatibility
 ================
