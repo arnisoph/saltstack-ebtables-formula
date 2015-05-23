@@ -1,0 +1,8 @@
+name: saltstack-ebtables-formula
+source: https://github.com/bechtoldt/saltstack-ebtables-formula
+summary: SaltStack Formula to set up and configure ebtables, a filtering tool for a Linux-based bridging firewall
+todo:
+  - add instructions how to use formhelper, add information about it in the formula-docs (dependency), show up alternative?
+  - 'table/ matrix: os/salt compatibility (dedicated file)'
+  - add list of available states
+  - add tests
